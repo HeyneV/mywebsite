@@ -1,5 +1,9 @@
 # vheyne
 
+https://github.com/HeyneV/mywebsite
+
+file:///Users/vernaheyne/Documents/mywebsite/index.html
+
 GIVEN I need to sample a potential employee's previous work
 
 WHEN I load their portfolio
