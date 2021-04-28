@@ -97,6 +97,11 @@ header nav ul li a {
   
  }
 
+@media screen and (max-width: 980px) {
+  form .form-group {
+    flex: 1 100%;
+  }
+
  /* CONTAINER STYLES END */
 
 /* FOOTER STARTS */
